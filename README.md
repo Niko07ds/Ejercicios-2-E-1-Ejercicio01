@@ -13,4 +13,4 @@ Luego, se asignaron valores directamente a sus atributos y se mostraron sus dato
 - Acceso a atributos mediante el operador `.`.
 
 ## Captura de ejecucion
-![Ejercicio-01-Persona.png](Ejercicio-01-Persona.png)
+![Ejercicio-01-Persona.png](src/Ejercicio-01-Persona.png)
